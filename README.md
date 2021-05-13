@@ -1,27 +1,28 @@
 
 https://github.com/rtjoshuas/-JSYS-/blob/main/HelloJava.java
 
-`// pachkage hello;`
 
+>// pachkage hello;
+>
 >public class HelloJava {
 >
->  public static void main(String[] args)
+>	public static void main(String[] args)
   {
     		<li>System.out.println("Hello, Java");</li>
-	}
+  }
 >  
 >}
 
-https://github.com/rtjoshuas/-JSYS-/blob/main/HelloJoshua.java
+
 
 https://github.com/rtjoshuas/-JSYS-/blob/main/FirstJava.java 
 
 
-`// pachkage hello;`
-
+>// pachkage hello;
+>
 >public class FirstJava {
 >
->  public static void main(String[] args)
+>	public static void main(String[] args)
   {
 		<li>System.out.println("Hello, Java");</li>
 		<li>System.out.println("안녕하세요. 자바");</li>
@@ -32,5 +33,19 @@ https://github.com/rtjoshuas/-JSYS-/blob/main/FirstJava.java
 >  
 >}
 
+
+
 https://github.com/rtjoshuas/-JSYS-/blob/main/IntegerVariable.java
+
+
+>public class IntegerVariable {
+>
+>	public static void main(String[] args)
+  {
+		<li>short sVal = 10;</li>
+		<li>byte bVal = 20;</li>
+		<li>System.out.println(sVal + bVal);</li>
+  }
+>
+>}
 
