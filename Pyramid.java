@@ -20,6 +20,6 @@ public static void main(String[] args) {
 	
 		System.out.println();
 
-		spaceLine -= -1;
+		spaceLine -= 1;
 		starLine += 2;	
 }
